@@ -2,6 +2,7 @@
 
 FastAPI backend for the **FreshCart** grocery store: JWT login, products, offers & coupons, orders with server-side pricing and stock control.
 
+- ☁️ Live API: https://freshcart-api-havl.onrender.com (docs at `/docs`) — free Render instance, first request after idle takes ~30–60 s
 - 🖥️ Frontend: https://github.com/zeeshan2alam/freshcart-grocery-store
 - 🌐 Live frontend: https://zeeshan2alam.github.io/freshcart-grocery-store/
 - 📖 Interactive docs: `/docs` on the running API (Swagger UI)
